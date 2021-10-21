@@ -1,0 +1,38 @@
+
+
+div {
+    display: inline-table;
+    border: 1px solid black;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+}
+
+.Div1 {
+    background-color: rgba(9, 143, 20, 0.438);
+}
+
+.Div2 {
+    background-color: rgba(178, 34, 34, 0.459);
+}
+
+.Div3 {
+    background-color: rgba(0, 0, 255, 0.466);
+}
+
+.Div1:hover {
+    background-color: green;
+}
+
+.Div2:hover {
+    background-color: red;
+}
+
+.Div3:hover {
+    background-color: blue;
+}
+
+body {
+    text-align: center;
+}

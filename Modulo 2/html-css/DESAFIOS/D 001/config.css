@@ -1,0 +1,137 @@
+
+@font-face {
+    font-family: Android;
+    src: url(pacote-projeto-d010/fontes/idroid.otf);
+}
+
+header {
+    background-image: linear-gradient(to top, rgb(82, 131, 98),rgb(90, 160, 137), rgb(105, 224, 155));
+    height: 180px;
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+    margin: -10px;
+    box-shadow: 10px 6px 12px 0px rgba(119, 119, 119, 0.692);
+
+}
+
+header > p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header > .links > p > a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.links {
+    text-align: left;
+    padding-left: 10px;
+
+}
+
+header > .links > p > a:hover {
+    color: rgb(105, 224, 155);
+}
+
+header > h1 {
+    padding-bottom: 5px;
+    font-size: 40px;
+    font-family: Android;
+    font-weight: light;
+}
+
+body {
+    background-color: #84E1AD;
+}
+
+main {
+    background-color: white;
+    width: 1000px;
+    height: 1250px;
+    margin: auto;
+}
+
+#Div2 {
+    background-color: #225C38;
+    width: 1000px;
+    height: 550px;
+
+    padding-top: 0px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+iframe {
+    text-align: center;
+    align-items: center;
+    margin: auto;
+
+}
+
+#Div2 > #video {
+    text-align: center;
+    padding-top: 40px;
+}
+
+main > h2 {
+    font-family: Android;
+    color: rgb(9, 121, 9);
+    font-size: 34px;
+    font-weight: 20px;
+}
+
+h3 {
+    background-image: linear-gradient(to right, rgba(9, 230, 57, 0.295),rgba(16, 241, 72, 0.068), rgba(41, 241, 58, 0.027));
+    font-family: Android;
+    font-size: 20px;
+    color: rgb(0, 94, 0);
+}
+
+#Principal {
+    
+    padding-top: 0px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+}
+
+#titulo {
+    border-top: 5px;  
+}
+
+.img1,.img2,#img3 {
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+
+footer {
+    background-color: #ffffff;
+    width: 1000px;
+    height: 550px;
+
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+    align-items: center;
+    margin: auto;
+}
+
+.pe {
+    background-color: #36e6013f;
+    height: 300px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+.cabecalho {
+    border-radius: 10px;
+    background-color: #0cec1f;
+    color: white;
+}

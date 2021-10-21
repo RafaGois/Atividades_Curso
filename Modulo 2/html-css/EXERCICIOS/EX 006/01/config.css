@@ -1,0 +1,22 @@
+
+
+div {
+    display: inline-block;
+    background-color: cadetblue;
+    border: 1px solid black;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
+div:hover {
+    background-color: springgreen;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+}

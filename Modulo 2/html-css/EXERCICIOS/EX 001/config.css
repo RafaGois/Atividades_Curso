@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to top, rgb(139, 180, 218), rgb(43, 43, 83));
+}
+
+h1 {
+    color: brown;
+}
+
+* {
+    height: 100%;
+}

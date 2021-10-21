@@ -1,0 +1,38 @@
+    h1 {
+    height: 200px;
+    width: 600px;
+    background-color: chartreuse;
+
+    border-width: 7px;
+    border-style: solid;
+    border-color: darkblue;
+
+    /** Simplificando o border**/
+    border: 20px solid darkslategray;
+    
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 18px;
+
+    /** Simplificando o padding **/
+    padding: 20px 20px 10 px 20 px;
+    
+    /** Colocando a margem manualmente**/
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    /** Margem alinhada no centro automaticamente. **/
+    margin: auto;
+
+    outline-width: 15px;
+    outline-style: dotted;
+    outline-color: darkred;
+}
+
+div {
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}

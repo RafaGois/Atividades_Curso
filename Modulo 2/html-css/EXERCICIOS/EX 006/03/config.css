@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: seagreen;
+    font-size: 30px;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:active {
+    color: red;
+}
